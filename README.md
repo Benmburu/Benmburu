@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://media.tenor.com/Faed-yR29P8AAAAM/huh-ew.webp">
 </p>
 
 ---
@@ -67,8 +67,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Benmburu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benmburu&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benmburu&theme=noctis_minimus&layout=compact" />
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=Benmburu&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benmburu&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/Benmburu/Benmburu/blob/output/github-contribution-grid-snake.svg)
