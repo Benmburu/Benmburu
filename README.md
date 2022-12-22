@@ -35,7 +35,7 @@
     [
       "Svelte",
       "React Native",
-      "My SQL"
+      "MySQL"
     ]
 
 }
