@@ -30,12 +30,18 @@
       "Mobile App Development",
       "UI/UX",
       "Cyber Security"
-    ]
+    ],
  "Currently Learning": 
     [
       "Svelte",
       "React Native",
       "MySQL"
+    ],
+  "Hobbies":
+    [
+      "Skateboarding",
+      "Scripting",
+      "King of the Hill"
     ]
 
 }
