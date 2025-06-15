@@ -1,7 +1,6 @@
 # Hi there, I'm Ben Mburu 👋
 
---- -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Mechatronic+Engineer+x+Software+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&lines=Mechatronic+Engineer+x+Software+Developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
